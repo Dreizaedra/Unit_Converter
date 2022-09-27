@@ -24,7 +24,7 @@ body {
 
 /* TOP SIDE: */
 
-.top_side {
+.top-side {
     position: absolute;
     width: 550px;
     height: 285px;
@@ -86,7 +86,7 @@ button {
 
 /* BOTTOM SIDE: */
 
-.bottom_side {
+.bottom-side {
     color: #353535;
 }
 
