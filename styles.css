@@ -12,7 +12,7 @@ body {
     color: #5A537B;
 }
 
-.frame {
+#frame {
     position: absolute;
     width: 550px;
     height: 729px;
@@ -24,7 +24,7 @@ body {
 
 /* TOP SIDE: */
 
-.top-side {
+#top-side {
     position: absolute;
     width: 550px;
     height: 285px;
@@ -86,7 +86,7 @@ button {
 
 /* BOTTOM SIDE: */
 
-.bottom-side {
+#bottom-side {
     color: #353535;
 }
 
