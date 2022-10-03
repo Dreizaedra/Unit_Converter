@@ -33,7 +33,7 @@ function convert_btn() {
             let imperial_fixed = imperial_value.toFixed(3);
             let imperial_unit = convert_data[i].imperial_unit;
 
-            // getting the correct id and editing HTML:
+            // getting the correct id from get_element function and editing HTML:
             let selector = get_element(convert_data[i].element_id);
             selector.innerHTML = `
                 <span class="bold text-purple">${convert_data[i].name}</span><br />
@@ -49,7 +49,7 @@ function convert_btn() {
     };
 };
 
-// returning correct id
+// returning correct id (either length, volume or mass)
 function get_element(element_id) {
     return document.getElementById(element_id);
 };
