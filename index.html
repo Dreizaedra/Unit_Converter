@@ -8,19 +8,29 @@
 <body>
     <div id="frame">
 
-        <div id="top-side">
-            <h1>Metric/Imperial Unit Conversion</h1>
+        <!--Top section-->
+        <section id="top-side">
+
+            <header>
+                <h1>Metric/Imperial Unit Conversion</h1>
+            </header>
+
             <input type="number" id="user-input">
             <button type="button" onclick="convert_btn()">Convert</button>
-        </div>
 
-        <div id="bottom-side">
+        </section>
+
+        <!--Bottom section-->
+        <section id="bottom-side">
+
             <p class="results" id="length-id"></p>
             <p class="results" id="volume-id"></p>
             <p class="results" id="mass-id"></p>
-        </div>
+            
+        </section>
 
     </div>
-    <script type="text/javascript" src="index.js"></script>
+    
+    <script type="text/javascript" src="scripts.js"></script>
 </body>
 </html>
