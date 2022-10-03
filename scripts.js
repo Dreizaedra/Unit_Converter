@@ -36,7 +36,7 @@ function convert_btn() {
             // getting the correct id and editing HTML:
             let selector = get_element(convert_data[i].element_id);
             selector.innerHTML = `
-                <span class="bold purple">${convert_data[i].name}</span><br />
+                <span class="bold text-purple">${convert_data[i].name}</span><br />
                 ${user_input.value} ${metric_unit} = ${imperial_fixed} ${imperial_unit} | 
                 ${user_input.value} ${imperial_unit} = ${metric_fixed} ${metric_unit}
             `;
