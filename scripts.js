@@ -1,5 +1,5 @@
 // Creating the array through class:
-class Convertion {
+class Conversion {
     constructor(name, rate, metric_unit, imperial_unit, element_id) {
         this.name = name;
         this.rate = rate;
@@ -10,9 +10,9 @@ class Convertion {
 };
 
 const convert_data = [
-    new Convertion("Length (Meters/Feet)", 3.28084, "meters", "feet", "length-id"),
-    new Convertion("Volume (Liters/Gallons)", 0.264172, "liters", "Gallons", "volume-id"),
-    new Convertion("Mass (Kilograms/Pounds)", 2.20462, "kilos", "pounds", "mass-id")
+    new Conversion("Length (Meters/Feet)", 3.28084, "meters", "feet", "length-id"),
+    new Conversion("Volume (Liters/Gallons)", 0.264172, "liters", "Gallons", "volume-id"),
+    new Conversion("Mass (Kilograms/Pounds)", 2.20462, "kilos", "pounds", "mass-id")
 ];
 
 const user_input = document.getElementById("user-input");
