@@ -15,6 +15,6 @@ This time I experimented with the class constructor tool in JS to create my arra
 
 I also decided not to use flexbox and instead tried to experiment 
 with position:absolute; settings in the CSS in order to learn to use it, 
-and later on merge those 2 tools together whenever applicable.
+and later on merge those 2 tools together whenever applicable and useful.
 
 Design & idea from <https://www.figma.com/file/cqtGul0V8RFXY4vTcIv1Kc/Unit-Conversion?node-id=0%3A1>
