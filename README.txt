@@ -14,7 +14,7 @@ This is another of my small projects to practice front-end stuff.
 This time I experimented with the class constructor tool in JS to create my array.
 
 I also decided not to use flexbox and instead tried to experiment 
-with position:absolute; settings in the CSS in order to learn to use it, 
+with 'position: absolute;' settings in the CSS in order to learn to use it, 
 and later on use both together whenever applicable and useful.
 
 Design & idea from <https://www.figma.com/file/cqtGul0V8RFXY4vTcIv1Kc/Unit-Conversion?node-id=0%3A1>
