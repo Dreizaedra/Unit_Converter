@@ -42,7 +42,7 @@ function convert_btn() {
             `;
         };
 
-    // called on page load & if user_input.value is ever "deleted":
+    // called on page load & if user_input.value is ever deleted, set to 0 or a negative number:
     } else {
         user_input.value = 20;
         convert_btn();
