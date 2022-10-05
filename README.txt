@@ -8,6 +8,8 @@ This value is set to a baseline of 20 and will reset itself if the user
 tries to input 0 or a negative number (no other characters allowed either)
 when clicking the convert button.
 
+Look at 'Example.png' to see the 2 states of the tool (with and without an input from the user).
+
 ____________________________________________________________________________
 
 This is another of my small projects to practice front-end stuff. 
