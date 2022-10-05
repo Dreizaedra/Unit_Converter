@@ -1,7 +1,7 @@
 A tool made to convert imperial units into metric ones and vice-versa.
 
-For example it converts the user's input value from meters into feet, 
-from feet into meters, the same goes for volume, mass and
+For example it converts the user's input value from meters into feet  
+as well as from feet into meters, the same goes for volume, mass and
 their respective units.
 
 This value is set to a baseline of 20 and will reset itself if the user 
