@@ -5,7 +5,8 @@ from feet into meters and the same goes for volume and mass
 and their respective units.
 
 This value is set to a baseline of 20 and will reset itself if the user 
-tries to input 0 or a negative number (no other characters allowed either).
+tries to input 0 or a negative number (no other characters allowed either)
+when clicking the convert button.
 
 ____________________________________________________________________________
 
