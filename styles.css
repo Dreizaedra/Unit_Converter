@@ -69,7 +69,7 @@ button:hover {
 }
 
 button:focus {
-    border: 2px solid blue;
+    border: 2px solid #B295FF;
 }
 
 button {
