@@ -49,7 +49,7 @@ function convert_btn() {
     };
 };
 
-// returning correct id (either length, volume or mass) to selector 
+// returning correct id (either length, volume or mass) to selector variable
 function get_element(element_id) {
     return document.getElementById(element_id);
 };
