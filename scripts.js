@@ -11,7 +11,7 @@ class Conversion {
 
 const convert_data = [
     new Conversion("Length (Meters/Feet)", 3.28084, "meters", "feet", "length-id"),
-    new Conversion("Volume (Liters/Gallons)", 0.264172, "liters", "Gallons", "volume-id"),
+    new Conversion("Volume (Liters/Gallons)", 0.264172, "liters", "gallons", "volume-id"),
     new Conversion("Mass (Kilograms/Pounds)", 2.20462, "kilos", "pounds", "mass-id")
 ];
 
