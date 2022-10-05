@@ -9,7 +9,7 @@ tries to input 0 or a negative number (no other characters allowed either)
 when clicking the convert button.
 
 Please look at 'Example.png' located in the images folder 
-if you want to see what this tool looks like.
+if you want to see what this tool looks like. <images/Example.png>
 
 ____________________________________________________________________________
 
